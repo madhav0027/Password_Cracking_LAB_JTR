@@ -48,7 +48,7 @@ Steps performed:
 
 ### Experiment 1 – Johnny (John the Ripper)
 
-![Johnny Password Recovery](screenshots/pdf1-johnny-success.png)
+![Johnny Password Recovery](screenshots/Screenshot 2026-11-20 211223.png)
 
 ### Experiment 2 – NetworkWalks
 
